@@ -1,0 +1,36 @@
+body {
+    margin: 10px;
+    padding: 0 15%;
+}
+
+#icons {
+    margin: 2px;
+    justify-content: flex-end;
+
+}
+#icons > img {
+    margin: 2px;
+    width: auto;
+    
+}
+
+h1 {
+    display: inline block;
+    justify-content: float;
+}
+header{
+     display: flex;
+     justify-content: space-between;
+}
+
+#delicious{
+     padding: 3px;
+}
+
+
+#fieldset{
+    position: relative;
+    text-align: center;
+}
+
+
